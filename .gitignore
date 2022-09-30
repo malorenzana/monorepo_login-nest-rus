@@ -1,7 +1,7 @@
 .env
 node_modules
 dist
-.mys
+.mysql-data
 # compiled output
 /dist
 /node_modules
