@@ -1,0 +1,6 @@
+ruta User POST
+    - solo un usuario ADMIN puede crear usuarios
+
+ruta User PUT
+    - si eres AUTHOR puedes editar tu propio usuario,
+      pero siendo AUTHOR no puedes editar el usuario de otro
