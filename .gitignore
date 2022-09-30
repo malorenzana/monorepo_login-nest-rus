@@ -1,5 +1,7 @@
 .env
-
+node_modules
+dist
+.mys
 # compiled output
 /dist
 /node_modules

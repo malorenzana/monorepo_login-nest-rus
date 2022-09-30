@@ -37,6 +37,7 @@ export class UserController {
             return data;
         }
 
+    //TODO registrar un usuario
     @Post('register')
     async publicRegistration(
         @Body() dto: UserRegistrationDto
