@@ -20,7 +20,7 @@ export class PostController {
         private readonly rolesBuilder: RolesBuilder
     ){}
     // !
-
+        //TODO listando la db
     @Get()
     async getMany() {
         const data = await this.postService.getMany();
